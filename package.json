@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-daykeep",
+  "version": "1.0.0-alpha.1",
+  "description": "A Quasar app extension to install the Quasar flavor of Daykeep Calendar",
+  "author": "Chris Benjamin <cbenjamin@stormseed.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stormseed/quasar-app-extension-daykeep.git"
+  },
+  "bugs": "https://github.com/stormseed/quasar-app-extension-daykeep/issues",
+  "homepage": "https://github.com/stormseed/quasar-app-extension-daykeep",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
